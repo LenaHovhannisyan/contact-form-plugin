@@ -1,8 +1,8 @@
-# 10web_task
+# Custom Contact Form plugin for Wordpress
 
 # Description
 
-Contact form provides you with a shortcode that you can use everywhere and save user data. In Admin panel you can only see saved data.
+Contact form plugin provides you with a shortcode that you can use everywhere and save user data. In Admin panel you can see only saved data.
 
 # How to use
 
